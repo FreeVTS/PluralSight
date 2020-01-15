@@ -1,6 +1,6 @@
 ﻿namespace ConcurrentChaptOne
 {
-    partial class Form1
+    partial class MainWindow
     {
         /// <summary>
         /// Variable nécessaire au concepteur.
