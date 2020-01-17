@@ -10,6 +10,9 @@ using System.Windows.Forms;
 
 namespace ConcurrentChaptOne
 {
+    /// <summary>
+    ///  One comment
+    /// </summary>
     public partial class MainWindow : Form
     {
         public MainWindow()
