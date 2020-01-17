@@ -11,7 +11,7 @@ using System.Windows.Forms;
 namespace ConcurrentChaptOne
 {
     /// <summary>
-    ///  One comment
+    ///  Module3
     /// </summary>
     public partial class MainWindow : Form
     {
